@@ -1,0 +1,2 @@
+C:\Users\Samir\Projects\GitHub\account-manager\bin\Debug\account-manager.exe.config
+C:\Users\Samir\Projects\GitHub\account-manager\src\bin\Debug\account-manager.exe.config
